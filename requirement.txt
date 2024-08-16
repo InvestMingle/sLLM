@@ -1,0 +1,9 @@
+transformers
+torch
+dotenv
+langchain
+openai
+chromadb
+langchainhub
+tiktoken
+pypdf
